@@ -68,6 +68,6 @@ You can view the full presentation here:
 <img width="1432" height="790" alt="image" src="https://github.com/user-attachments/assets/7c884ee6-0f37-4e14-8145-1e04b29ee89d" />
 
 ## Project Demo:
-[![Watch the demo](https://youtu.be/BObNXfiFX2M)](https://youtu.be/BObNXfiFX2M)
+[![Demo Profit Optimization](https://youtu.be/BObNXfiFX2M/0.jpg)](https://youtu.be/BObNXfiFX2M)
 
 
